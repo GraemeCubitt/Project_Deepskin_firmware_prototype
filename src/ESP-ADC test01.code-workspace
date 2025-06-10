@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ESP-ADC test01",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"excess": "c"
+		}
+	}
+}
